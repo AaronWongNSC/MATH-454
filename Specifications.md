@@ -3,11 +3,11 @@ layout: default
 title: Specifications
 ---
 
-# Specifications for Student Work in Math 453
+# Specifications for Student Work in Math 454
 
-## Why writing matters in Math 453
+## Why writing matters in Math 454
 
-A primary goal of Math 453 is to continue to develop your ability to communicate in mathematics. Effective written communication is a central goal of the course and we will treat it with an appropriate level of attention through the work we do.
+A primary goal of Math 454 is to continue to develop your ability to communicate in mathematics. Effective written communication is a central goal of the course and we will treat it with an appropriate level of attention through the work we do.
 
 ## Specifications for Pass/No Pass work on Guided Practice, Concept Quizzes, CORE Assessments, and Leading Discussions
 
@@ -34,11 +34,11 @@ Attaining Mastery level on one of these items requires that you be aware of the 
 3. __Syntax error__. Syntax errors occur in one of two ways. First, they can occur as errors in English grammar, when the rules for language usage are not followed correctly, especially to the point that they obscure the thought process in the solution or introduce new errors. Second, they can occur as errors in the usage of mathematical notation, especially if the misuse of notation obscures the solution or introduces new errors. For example, in calculus the misuse of the pronoun "it" without clear reference to an antecedent is a particular problem (example: "It is increasing because it is positive"). In mathematical notation, syntax errors can be caused by switching variables mid-solution (for example, solving $3t = 9$ to get $x = 3$ is an error); by misusing function notation, mismatching parentheses, and a host of other possibilities. 
 4. __Semantic error__. Semantic errors occur when the rules of the _grammar_ of a language are followed but the resulting statements are nonsensical or meaningless. For example, the statement "Colorless green ideas sleep furiously" is correct English syntax but has no meaning, therefore it represents a semantic error. In mathematics, a similarly semantically erroneous statement would be "The following graph can be factored". This is a semantic error because we don't "factor" graphs; we factor polynomials and integers, and to say we are "factoring a graph" is meaningless.
 
-In reality, these errors are closely linked together, and an error in one category usually introduces an error in one of the others. The general rule for Math 453 is: __Work on Mastery Problems and Teaching Items must be almost, if not  entirely free of all of the above kinds of error in order to be assessed as Mastery level; and there can be no significant instances of any of these errors.__ That is, a small number of minor errors can be tolerated as long as they do not make the answer incorrect or significantly obscure the thought process in the solution. But large numbers of minor errors, or a single instance of a major error, will result in the work being marked as _Progressing_ at best.
+In reality, these errors are closely linked together, and an error in one category usually introduces an error in one of the others. The general rule for Math 454 is: __Work on Mastery Problems and Teaching Items must be almost, if not  entirely free of all of the above kinds of error in order to be assessed as Mastery level; and there can be no significant instances of any of these errors.__ That is, a small number of minor errors can be tolerated as long as they do not make the answer incorrect or significantly obscure the thought process in the solution. But large numbers of minor errors, or a single instance of a major error, will result in the work being marked as _Progressing_ at best.
 
-For these items, we will often refer to the __standard audience for Math 453__, which is defined to be: 
+For these items, we will often refer to the __standard audience for Math 454__, which is defined to be: 
 
->The standard audience in Math 453 consists of classmates in Math 453 who are familiar with the mathematical ideas discussed in the class and have the appropriate background knowledge for the class, but who are unfamiliar with the particular problem whose solution you are presenting and therefore need to be persuaded that your solution is correct and your conclusions believable. 
+>The standard audience in Math 454 consists of classmates in Math 454 who are familiar with the mathematical ideas discussed in the class and have the appropriate background knowledge for the class, but who are unfamiliar with the particular problem whose solution you are presenting and therefore need to be persuaded that your solution is correct and your conclusions believable. 
 
 Therefore some items will not need to be discussed in a solution; for example, you can perform basic arithmetic or algebra computations without showing any work. On the other hand you should remind the reader of key definitions and assumptions when proving results. 
 
@@ -64,7 +64,7 @@ Teaching Items are projects where you prepare a lesson for your fellow classmate
 - introduce the __CORE__ problem concept in an unambiguous way,
 - contain a full solution of a specific problem, 
 - include exposition on possible variations or more general cases,
-- demonstrate good pedagogy at an appropriate level for the standard Math 453 audience, and
+- demonstrate good pedagogy at an appropriate level for the standard Math 454 audience, and
 - satisfy the standards of the four __C__ criteria for Mastery Problems.
 
 A Teaching Item that fails to demonstrate a complete understanding of the __CORE__ objective or that is weak in its explanations will receive a score of __Progressing__. A Teaching item that is targeted at the wrong audience or that has significant errors or omissions in the explanation will receive a mark of __Novice__. 
