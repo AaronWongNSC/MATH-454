@@ -14,8 +14,10 @@ Read all of Investigation 20.
 
 ## Learning Objectives 
 
-The following are basic tasks that you should be familiar with when you come to class. We will not re-teach these in class, although after the Concept Check quiz we will have time for questions and answers on them. The Concept Check quizzes will be drawn from objectives __CC.2__ and __CC.3__. Be sure that can do the following:
+The following are basic tasks that you should be familiar with when you come to class. We will not re-teach these in class, although after the Concept Check quiz we will have time for questions and answers on them. The Concept Check quizzes will be from __CC.1__. In addition to these you should work to understand objectives __CC.2__ and __CC.3__. Prepare to do the following:
 
++ CC.1: State and instantiate the definitions of the following terms: Rigid motion; symmetry.
++ M.1: Create or complete an operation table for symmetries of a figure.
 + CC.2: State and instantiate the definitions of the following terms: Group; Abelian group; finite/infinite order of a group; finite/infinite group; unit
 + CC.3: State the following mathematical results: Theorem 20.7
 + M.2: Determine whether a set with a given binary operation is or is not a group. 
