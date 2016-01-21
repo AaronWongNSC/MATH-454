@@ -11,7 +11,7 @@ published: true
 
 
 | Date   	| Guided Practice                  	| Investigation 	| HW Due                                                                                                                                                                      	|
-|--------	|----------------------------------	|---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+|--------	|----------------------------------	|---------------	|---------------------	|
 |        	| **Week 1**                       	|               	|                                                                                                                                                                             	|
 | Jan 19 	| Intro                            	|               	|                                                                                                                                                                             	|
 | Jan 21 	| [GP 1](/NSC-Math-454/GP1.html)   	| Inv 19        	| [Getting Started](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454GettingStarted.tex&splash=none) 	|
