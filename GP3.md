@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Guided Practice 1
+title: Guided Practice 3
 ---
-# Guided Practice 2: Investigation 20
+# Guided Practice 3: Investigation 20
 
 ## Preview
 
