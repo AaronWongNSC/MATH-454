@@ -21,7 +21,7 @@ To "__instantiate__" a definition means to construct or state examples of that d
 
 ## 20: An Introduction to Groups
 
-+ CC.2: State and instantiate the definitions of the following terms: Group; Abelian group; finite/infinite order of a group; finite/infinite group; unit
++ CC.2: State and instantiate the definitions of the following terms: Group; Abelian group; finite/infinite order of a group; finite/infinite group; group of units in $\mathbb{Z}_n$
 + CC.3: State the following mathematical results: Theorem 20.7
 + (CORE) M.2: Determine whether a set with a given binary operation is or is not a group. 
 + (CORE) M.3: Given a group (especially the standard examples of groups on page 285), do the following: identify the identity element; identify the inverse of a given element; perform operations in the group; determine whether it is Abelian; determine its order; and describe its group of units. 
