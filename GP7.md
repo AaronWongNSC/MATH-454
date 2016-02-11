@@ -27,4 +27,4 @@ The 6 exam questions will cover the objectives below.
 
 During your reading or afterwards, answer the following questions. These will be graded on a scale of 0 to 1 on the basis of completeness and effort only. You should give a good-faith effort to answer each exercise and be right in your answer, but if you make a mathematical or conceptual mistake it will not count against you. However, if you leave an item blank, put “I don’t know”, or similarly do not put forth an effort to answer each question, you will lose credit. Be sure to come to class prepared to share your answers and to lead a discussion on these problems.
 
-1. Find all subgroups of $D_4$ (the group of symmetries of a square). What is the center of $D_4$?
+1. Find all subgroups of $D_3$ (the group of symmetries of an equilateral triangle). What is the center of $D_3$?
