@@ -54,7 +54,7 @@ To "__instantiate__" a definition means to construct or state examples of that d
 
 ## 25: The Symmetric Groups
 
-+ CC.10: State and instantiate the definitions of the following terms: ermutation; symmetric group of degree n; disjoint cycles; even and odd permutations; alternating group $A_n$
++ CC.10: State and instantiate the definitions of the following terms: permutation; symmetric group of degree n; disjoint cycles; even and odd permutations; alternating group $A_n$
 + CC.11: State the following mathematical results: Theorem 25.4; Theorem 25.11; Theorem 25.14
 + CC.12: Write a permutation in cycle notation, and decompose a permutation into a product of disjoint cycles. 
 + M.11: Determine whether a permutation is even or odd. 
