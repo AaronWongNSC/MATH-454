@@ -1,0 +1,79 @@
+# Dependencies
+markdown:            kramdown
+kramdown:
+  auto_ids:          true
+  footnote_nr:       1
+  entity_output:     as_char
+  toc_levels:        1..6
+  use_coderay:       false
+
+highlighter:         rouge
+
+gems:
+  - jekyll-redirect-from
+
+# Permalinks
+#
+permalink:           pretty
+
+# Setup
+title:               'C & C++ Brasil'
+tagline:             'O Grupo de usuários C & C++ do Brasil'
+description:         'Bem vindo(a) ao site e blog do Grupo de usuários C & C++ do Brasil'
+url:                 http://ccppbrasil.github.io
+baseurl:             /
+paginate:            5
+paginate_path:       blog/page:num
+
+# About/contact
+author:
+  name:              'Francisco Lopes'
+  url:               https://twitter.com/pepper_chico
+
+# Custom vars
+version:             1.0.0
+
+github:
+  repo:              https://github.com/ccppbrasil/ccppbrasil.github.io
+
+prose:
+  ignore:
+    - /\..*
+    - /_config.yml
+    - /atom.xml
+    - /LICENSE.md
+    - /_layouts
+    - /_includes
+    - /public
+    - /blog
+  metadata:
+    "":
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
