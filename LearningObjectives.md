@@ -94,7 +94,7 @@ To "__instantiate__" a definition means to construct or state examples of that d
 ## 30: Homomorphisms and Isomorphism Theorems
 
 + CC.21: State and instantiate the definitions of the following terms: Homomorphism of groups; epimorphism; monomorphism; homomorphic image; kernel of a homomorphism; image of a homomorphism
-+ CC.22: State the following mathematical results: heorem 30.4; Theorem 30.8; Theorem 30.13 (The First Isomorphism Theorem); Theorem 30.16 (The Second Isomorphism Theorem); Theorem 30.18 (The Third Isomorphism Theorem); Theorem 30.19 (The Fourth Isomorphism Theorem); Theorem 30.22
++ CC.22: State the following mathematical results: Theorem 30.4; Theorem 30.8; Theorem 30.13 (The First Isomorphism Theorem); Theorem 30.16 (The Second Isomorphism Theorem); Theorem 30.18 (The Third Isomorphism Theorem); Theorem 30.19 (The Fourth Isomorphism Theorem); Theorem 30.22
 + (CORE) M.24: Determine whether a function between two groups is a homomorphism (epimorphism, monomorphism). 
 + (CORE) M.25: Determine the kernel and image of a homomorphism. 
 
