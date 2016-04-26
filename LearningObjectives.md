@@ -102,17 +102,18 @@ To "__instantiate__" a definition means to construct or state examples of that d
 
 + CC.23: State and instantiate the definitions of the following terms: p-group; p-primary component of a group; 
 + CC.24: State the following mathematical results: Theorem 31.3; Corollary 31.6; Theorem 31.13 (Fundamental Theorem of Finite Abelian Groups)
++ M.26: Given a finite abelian group, find an isomorphic group that is an (external) direct product of cyclic groups of prime power order.
 
 ## 32: The First Sylow Theorem
 
 + CC.25: State and instantiate the definitions of the following terms: The "conjugate" relation; conjugacy class; centralizer; Sylow p-subgroup
 + CC.26: State the following mathematical results: Theorem 32.12 (The Class Equation); Theorem 32.14; Corollary 32.16; Theorem 32.17 (Cauchy's Theorem); Theorem 32.20 (First Sylow Theorem)
-+ M.26: Determine if two elements in a group are conjugate. 
-+ M.27: Determine the conjugacy class of a group element. 
-+ M.28: Determine the centralizer of a group. 
++ M.27: Determine if two elements in a group are conjugate. 
++ M.28: Determine the conjugacy class of a group element. 
++ M.29: Determine the centralizer of a group. 
 
 ## 33: The Second and Third Sylow Theorem
 
 + CC.27: State and instantiate the definitions of the following terms: Normalizer
 + CC.28: State the following mathematical results: Lemma 33.3; Lemma 33.9; Lemma 33.10; Theorem 33.12 (Second Sylow Theorem); Theorem 33.13 (Third Sylow Theorem)
-+ M.29: Determine the normalizer of a subgroup in a group.
++ M.30: Determine the normalizer of a subgroup in a group.
