@@ -25,7 +25,7 @@ Learning Objectives: The entire course is organized around a list of Learning Ob
 + Concept Check (__CC__) objectives that address basic terminology, results, and computations;  
 + Mastery (__M__) objectives that address higher­-level tasks such as analysis, application, and creative work  through programming or proof writing; and  
 + Core Mastery (__CORE-M__) objectives, which are a subset of the list of M objectives that are especially important for the course.  
-There are 30 __CC__  objectives, and 37 __M__ objectives, ­­ and 19 __CORE-M__ objectives within the list of __M__ objectives in the course, a full list of which is provided on the course Blackboard site. 
+There are 30 __CC__  objectives, and 37 __M__ objectives, ­­ and 19 __CORE-M__ objectives within the list of __M__ objectives in the course, a full list of which is provided in the Learning Objectives. 
 
 The object of the course for each student is to demonstrate mastery on as many learning objectives as possible.  
 
@@ -40,16 +40,13 @@ The object of the course for each student is to demonstrate mastery on as many l
   - __Desmos Activity__ Students will create a Desmos account at https://teacher.desmos.com and create a lesson activity that illustrates one of the __CORE-M__ objectives of the class.
 
 __Grading System__
-Math 454 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course  concepts. Our grading system works as follows:
+Math 453 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course  concepts. Our grading system works as follows:
 
 * At the beginning of the semester, you will be asked to decide on the target grade you plan to earn for the course. This does not need to be an “A”. You’ll be asked to carefully consider your goals, skill set, life situation, academic needs, and so on before stating your target grade. For some students, a “B” or even a “C” is perfectly sufficient and realistic, relative to their situation.
 * **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate page, and you should make yourself intimately familiar with that page. Your Guided Practice, Leading Discussions, Concept Checks, and CORE-M Assessments, are graded on a Pass/No Pass basis; Mastery Problems and Teaching Items are graded using Mastery/Progressing/Novice designations.
 * The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level . There are no points involved and no statistical or numerical calculations.
 
-The table for determining your grade is given below. For reference: there are a total of 37 __M__ objectives, 19 of which are considered __CORE__ and 16 of which are outside the core. Also, there will be 12 Concept Checks, each of which will be assessed twice, 24 guided practice assignments, and 3 Teaching Items. “Pass” means the following:
-
-
-
+The table for determining your grade is given below. For reference: there are a total of 30 __M__ objectives, 20 of which are considered __CORE__ and 10 of which are outside the core. Also, there will be 28 Concept Checks, each of which will be assessed twice, 25 guided practice assignments, and 3 Teaching Items. “Pass” means the following:
 
 For Class Preparation, you receive a mark of Pass if (and only if) each item you are asked to submit 
 provides evidence of a good­faith effort to give a correct answer. If you are asked to present your work, a 
@@ -69,39 +66,42 @@ __CORE-M Assessments:__ At four different times during the semester, we will set
 ## To earn an A
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 23 of 24 Guided Practice assignments, AND
-+ Pass 2 of 3 Leading Discussions, AND
-+ Pass 19 of 21 Concept Checks, AND
-+ Pass 15 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 34 of 37 Mastery Problems on the homework, AND
++ Pass 23 of 25 Guided Practice assignments, AND
++ Pass 6 of 6 Leading Discussions, AND
++ Pass 25 of 28 Concept Checks, AND
++ Pass 17 of 20 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 27 of 30 Mastery Problems on the homework, AND
 + Complete 3 Teaching Items (one of each type) with a Mastery level.
 
 ## To earn an B
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 20 of 24 Guided Practice assignments, AND
-+ Pass 1 of 3 Leading Discussions, AND
-+ Pass 16 of 21 Concept Checks, AND
-+ Pass 13 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 28 of 37 Mastery Problems on the homework, AND
++ Pass 21 of 25 Guided Practice assignments, AND
++ Pass 5 of 6 Leading Discussions, AND
++ Pass 22 of 28 Concept Checks, AND
++ Pass 15 of 20 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 23 of 30 Mastery Problems on the homework, AND
 + Complete 2 Teaching Items with a Mastery level.
 
 ## To earn an C
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 17 of 24 Guided Practice assignments, AND
-+ Pass 13 of 21 Concept Checks, AND
-+ Pass 11 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 21 of 37 Mastery Problems on the homework, AND
++ Pass 19 of 25 Guided Practice assignments, AND
++ Pass 4 of 6 Leading Discussions, AND
++ Pass 19 of 28 Concept Checks, AND
++ Pass 12 of 20 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 19 of 30 Mastery Problems on the homework, AND
 + Complete 1 Teaching Item with a Mastery level.
 
 ## To earn an D
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 14 of 24 Guided Practice assignments, AND
-+ Pass 10 of 21 Concept Checks, AND
-+ Pass 9 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 13 of 37 Mastery Problems on the homework.
++ Pass 15 of 25 Guided Practice assignments, AND
++ Pass 3 of 6 Leading Discussions, AND
++ Pass 16 of 28 Concept Checks, AND
++ Pass 10 of 20 CORE-M problems on in-class assessments, AND
++ Attain Mastery level on 25 of 30 Mastery Problems on the homework.
+
  
 The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a 
 student must satisfy ALL the criteria in that row.
@@ -135,7 +135,7 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * It gives a final grade that communicates real information about your mastery of the subject.
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
  
-The chief downside to this system is that it’s complicated. You can download my [sample gradebook](homework/Math454Gradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
+The chief downside to this system is that it’s complicated. You can download my [sample gradebook](homework/Math454GradebookSp18.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
 
 ## What are the consequences of missing class?
 
