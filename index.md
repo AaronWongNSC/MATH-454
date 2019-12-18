@@ -13,9 +13,10 @@ published: true
 | Date   	| Guided Practice                  	| Investigation 	| HW Due                                                                                                                                                                      	|
 |--------	|----------------------------------	|---------------	|---------------------	|
 |        	| **Week 1**                       	|               	|                                                                                                                                                                             	|
-| Jan 16 	| Intro                            	|               	|                                                                                                                                                                             	|
+| Jan 22 	| Intro                            	|               	
+|        	| **Week 2**                       	|               	
 | Jan 18 	| [GP 1](/NSC-Math-454/GP1.html)   	| Inv 19        	| [Getting Started](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454GettingStarted.tex&splash=none) 	|
-|        	| **Week 2**                       	|               	|                                                                                                                                                                             	|
+|                                                                                                                                                                             	|
 | Jan 23 	| [GP 2](/NSC-Math-454/GP2.html)   	| Inv 20        	| [HW 1](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW1.tex&splash=none)                       	|
 | Jan 25 	| [GP 3](/NSC-Math-454/GP3.html)   	| Inv 20        	|                                                                                                                                                                             	|
 |        	| **Week 3**                       	|               	|                                                                                                                                                                             	|
