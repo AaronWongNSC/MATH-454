@@ -55,7 +55,5 @@ published: true
 | Apr 27 	| [GP 21](/NSC-Math-454/GP21.html) 	| Inv 30        	
 | Apr 29 	| [GP 22](/NSC-Math-454/GP22.html) 	| Inv 30        	
 |        	| **Week 16**                      	|               	
-| May 4 	| [GP 23](/NSC-Math-454/GP23.html) 	| Inv 31        	| [HW 10](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW10.tex&splash=none)                     	|
-| May 6 	| [GP 24](/NSC-Math-454/GP24.html)	| Inv 31        	
-| May xx  	| [GP 25](/NSC-Math-454/GP25.html) 	| Review        	| [HW 11](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW11.tex&splash=none)                     	|
-| May xx  	| CORE Exam                        	|           	| [Teaching Item 3](/NSC-Math-454/homework/Math453TeachingItem3.pdf)                                                                                                          	|
+| May 4 	| [GP 23](/NSC-Math-454/GP23.html) 	| Review        	| [HW 10](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW10.tex&splash=none)                     	|
+| May 6 	| CORE Exam                        	|           	| [Teaching Item 3](/NSC-Math-454/homework/Math453TeachingItem3.pdf)   
