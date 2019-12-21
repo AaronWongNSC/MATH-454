@@ -36,7 +36,7 @@ published: true
 | Mar 11  	| [GP 12](/NSC-Math-454/GP12.html) 	| Inv 26        	
 |        	| **Week 9**                       	|               	
 | Mar 16  	| [GP 13](/NSC-Math-454/GP13.html) 	| Inv 26/Review  	|                       	|
-| Mar 18 	| CORE Exam                        	|               	|    [HW 6](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW6.tex&splash=none)                                                                                                                              |        	| **Week 10**                      	|               	
+| Mar 18 	| CORE Exam                        	|               	|    [HW 6](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW6.tex&splash=none)                                                                                          |        	| **Week 10**                      	|               	
 | Mar 23 	| [GP 14](/NSC-Math-454/GP14.html) 	| Inv 27        	
 | Mar 25 	| [GP 15](/NSC-Math-454/GP15.html) 	| Inv 27        	
 |        	| **Week 11**                      	|               	
