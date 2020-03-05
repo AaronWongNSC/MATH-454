@@ -6,7 +6,7 @@ title: Math 454 Syllabus
 
 ## Ten Things you need to know about Math 454
 
-1. I want you to be successful in the class. My job is to help you learn and develop a deep understanding of the course material. I am on your side! I would like our relationship to be like that between a client and a consultant who work together to achieve an end goal. Please feel free to come speak with me at any time. 
+1. I want you to be successful in the class. My job is to help you learn and develop a deep understanding of the course material. I am on your side! I would like our relationship to be like that between a client and a consultant who work together to achieve an end goal. Please feel free to come speak with me at any time.
 2. I expect you to be actively engaged in your learning. In order to learn mathematics, you have to do mathematics. In Math 454 you’ll be expected to work actively, and contribute to others’ work. There is very little lecture during class time; instead we’ll be solving puzzles and asking and answering questions.
 3. You’re expected to spend significant time working on this class. For an upper level course, NSC expects a ratio of 3:1 of time spent outside class to time spent in class, so that’s about 9 hours a week of purposeful work outside of class for Math 454. You might need more, if your proof background is weak.
 4. This is an advanced, proof-based, abstract subject. In this class we will study abstract ideas, and problem solving in abstraction is almost always done in the form of conjectures and proof. We will see computation and examples, but you won’t be able to use examples as “templates”. You will be writing proofs and lots of them.
@@ -25,7 +25,7 @@ Learning Objectives: The entire course is organized around a list of Learning Ob
 + Concept Check (__CC__) objectives that address basic terminology, results, and computations;  
 + Mastery (__M__) objectives that address higher­-level tasks such as analysis, application, and creative work  through programming or proof writing; and  
 + Core Mastery (__CORE-M__) objectives, which are a subset of the list of M objectives that are especially important for the course.  
-There are 30 __CC__  objectives, and 37 __M__ objectives, ­­ and 19 __CORE-M__ objectives within the list of __M__ objectives in the course, a full list of which is provided in the Learning Objectives. 
+There are 30 __CC__  objectives, and 37 __M__ objectives, ­­ and 19 __CORE-M__ objectives within the list of __M__ objectives in the course, a full list of which is provided in the Learning Objectives.
 
 The object of the course for each student is to demonstrate mastery on as many learning objectives as possible.  
 
@@ -48,9 +48,9 @@ Math 453 uses a **points-free mastery-based grading system** that is designed to
 
 The table for determining your grade is given below. For reference: there are a total of 30 __M__ objectives, 20 of which are considered __CORE__ and 10 of which are outside the core. Also, there will be 28 Concept Checks, each of which will be assessed twice, 25 guided practice assignments, and 3 Teaching Items. “Pass” means the following:
 
-For Class Preparation, you receive a mark of Pass if (and only if) each item you are asked to submit 
-provides evidence of a good­faith effort to give a correct answer. If you are asked to present your work, a 
-successful presentation consists of presenting legible work that results from a good­faith effort, and you are 
+For Class Preparation, you receive a mark of Pass if (and only if) each item you are asked to submit
+provides evidence of a good­faith effort to give a correct answer. If you are asked to present your work, a
+successful presentation consists of presenting legible work that results from a good­faith effort, and you are
 able to answer questions about your work and field questions from others.  
 
 + For Class Preparation, you receive a mark of __Pass__ if (and only if) each item you are asked to submit
@@ -62,48 +62,48 @@ able to answer questions about your work and field questions from others.
 + On __Mastery Problems__ (untimed), we use a three-level scale: Mastery/Progressing/Novice. A mark of __Mastery__ is reserved for a solution that meets the specifications for professionally acceptable work. A mark of __Progressing__ is for work that meets many of the specifications but has a small number of critical errors or otherwise fails to meet specifications but it’s close. __Novice__ is given to work that does not reach the level of Progressing.
 
 __CORE-M Assessments:__ At four different times during the semester, we will set aside the entire class period for you to attempt problems aimed at the 19 __CORE-M__ objectives. Before each timed assessment period, you will be surveyed as to which __CORE-M__ objectives you would like to be assessed on during that period. You may attempt as many or as few as you like. For all the ones you select, you will receive a problem that assesses that __CORE-M__ objective. If your work on a timed problem is Passing, then you have demonstrated mastery on that learning objective, and you will not be tested on it again. If your work does Not Pass, then you can elect to try a new instance of that problem at a later timed assessment period. You may also elect to spend one of your tokens (explained below) to be re-assessed on __CC__ objectives during timed assessment periods if you have not passed some of those; as with __CORE-M__ objectives, you will need to specify which __CC__ objectives you want to be assessed on in advance.  
- 
+
 ## To earn an A
 
 + Complete the Getting Started assignment in week 1, AND
 + Pass 23 of 25 Guided Practice assignments, AND
-+ Pass 6 of 6 Leading Discussions, AND
-+ Pass 25 of 28 Concept Checks, AND
++ Pass 4 of 6 Leading Discussions, AND
++ Pass 21 of 24 Concept Checks, AND
 + Pass 17 of 20 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 27 of 30 Mastery Problems on the homework, AND
++ Attain Mastery level on 26 of 30 Mastery Problems on the homework, AND
 + Complete 3 Teaching Items (one of each type) with a Mastery level.
 
 ## To earn an B
 
 + Complete the Getting Started assignment in week 1, AND
 + Pass 21 of 25 Guided Practice assignments, AND
-+ Pass 5 of 6 Leading Discussions, AND
-+ Pass 22 of 28 Concept Checks, AND
++ Pass 3 of 6 Leading Discussions, AND
++ Pass 18 of 24 Concept Checks, AND
 + Pass 15 of 20 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 23 of 30 Mastery Problems on the homework, AND
++ Attain Mastery level on 22 of 30 Mastery Problems on the homework, AND
 + Complete 2 Teaching Items with a Mastery level.
 
 ## To earn an C
 
 + Complete the Getting Started assignment in week 1, AND
 + Pass 19 of 25 Guided Practice assignments, AND
-+ Pass 4 of 6 Leading Discussions, AND
-+ Pass 19 of 28 Concept Checks, AND
++ Pass 2 of 6 Leading Discussions, AND
++ Pass 15 of 24 Concept Checks, AND
 + Pass 12 of 20 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 19 of 30 Mastery Problems on the homework, AND
++ Attain Mastery level on 18 of 30 Mastery Problems on the homework, AND
 + Complete 1 Teaching Item with a Mastery level.
 
 ## To earn an D
 
 + Complete the Getting Started assignment in week 1, AND
 + Pass 15 of 25 Guided Practice assignments, AND
-+ Pass 3 of 6 Leading Discussions, AND
-+ Pass 16 of 28 Concept Checks, AND
++ Pass 1 of 6 Leading Discussions, AND
++ Pass 12 of 24 Concept Checks, AND
 + Pass 10 of 20 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 25 of 30 Mastery Problems on the homework.
++ Attain Mastery level on 14 of 30 Mastery Problems on the homework.
 
- 
-The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a 
+
+The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a
 student must satisfy ALL the criteria in that row.
 
 ![A Grade Checklist](images/GradeChecklist.PNG)
@@ -134,7 +134,7 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * It directly links the grade you earn to the amount and quality of work that you do.
 * It gives a final grade that communicates real information about your mastery of the subject.
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
- 
+
 The chief downside to this system is that it’s complicated. You can download my [sample gradebook](homework/Math454GradebookSp18.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
 
 ## What are the consequences of missing class?
