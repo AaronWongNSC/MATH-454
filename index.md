@@ -38,13 +38,13 @@ published: true
 | Mar 16  	| [GP 13](/NSC-Math-454/GP13.html) 	| Inv 26/Review  	|                       	|
 | Mar 18 	| CORE Exam                        	|               	|    [HW 6](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW6.tex&splash=none)
 |        	| **Week 10**                      	|               	
+|        	| Spring Break                     	|               	
+|        	| **Week 11**                      	|               	
 | Mar 23 	| [GP 14](/NSC-Math-454/GP14.html) 	| Inv 27        	
 | Mar 25 	| [GP 15](/NSC-Math-454/GP15.html) 	| Inv 27        	
-|        	| **Week 11**                      	|               	
+|        	| **Week 12**                      	|               	
 | Mar 30 	| [GP 16](/NSC-Math-454/GP16.html) 	| Inv 28        	| [HW 7](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW7.tex&splash=none)                       	|
 | Apr 1 	| [GP 17](/NSC-Math-454/GP17.html) 	| Inv 28        	| [Teaching Item 2](/NSC-Math-454/homework/Math453TeachingItem2.pdf)                                                                                                          	|
-|        	| **Week 12**                      	|               	
-|        	| Spring Break                     	|               	
 |        	| **Week 13**                      	|               	
 | Apr 13  	| [GP 18](/NSC-Math-454/GP18.html) 	| Inv 29        	| [HW 8](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-454/gh-pages/homework/Math454HW8.tex&splash=none)                       	|
 | Apr 15  	| [GP 19](/NSC-Math-454/GP19.html) 	| Inv 29        	
